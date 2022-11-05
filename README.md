@@ -1,3 +1,3 @@
-![](https://github.com/opturtio/ohtuvarasto/workflows/CI/badge.svg)
+![workflow badge](https://github.com/opturtio/ohtuvarasto/workflows/CI/badge.svg)
 
 # ohtuvarasto
